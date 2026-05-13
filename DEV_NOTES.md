@@ -13,3 +13,8 @@ Personal development log — notes, findings, and ongoing work.
 
 ## 2026-05-13
 - Reviewed security headers configuration
+
+## 2026-05-13
+- Resolved deprecation warnings
+- Bumped patch version
+- Reorganised test fixtures
